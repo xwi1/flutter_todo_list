@@ -1,16 +1,15 @@
 # todo_list
 
-A new Flutter project.
+This is a to-do list app with basic features:
+- Adding a task (color, name)
+- Changing the task
+- Delete a task
+- Adding a subtask
 
-## Getting Started
+The following libraries were used:
+- hive (local database)
+- flutter_mobx (state management)
+- provider (state management)
+- flutter_colorpicker (just for selecting the color of the elements) 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is a little unfinished, there are some bugs, but overall it works.
