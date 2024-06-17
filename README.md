@@ -5,6 +5,7 @@ This is a to-do list app with basic features:
 - Changing the task
 - Delete a task
 - Adding a subtask
+- Managing task status
 
 The following libraries were used:
 - hive (local database)
